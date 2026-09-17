@@ -229,3 +229,17 @@ Example API operations tested:
 B.Tech – Electrical and Electronics Engineering
 
 GitHub: **SRIKANTH-PILLI**
+
+## API Testing Screenshots
+
+### Rooms API
+
+![Rooms API](screenshots/rooms-api.png)
+
+### Students API
+
+![Students API](screenshots/students-api.png)
+
+### Fees API
+
+![Fees API](screenshots/fees-api.png)
